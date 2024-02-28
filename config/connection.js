@@ -9,6 +9,7 @@ const sequelize = new Sequelize(
     {
         host: 'localhost',
         dialect: 'mariadb',
+        logging: false
     }
 )
 
