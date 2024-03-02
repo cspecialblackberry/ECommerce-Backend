@@ -16,3 +16,6 @@ N/A
 Please refer to the MIT license in the repository.
 
 ## Video
+
+https://screenrec.com/share/LcW8lDQ5Yb
+

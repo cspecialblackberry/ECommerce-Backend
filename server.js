@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }))
 
 app.use(routes)
 
-const syncDB = async () => {
+const syncDB = () => {
     try {
         sequelize.sync({ force: false })
         .then(app.listen(PORT, () => {
